@@ -1,9 +1,9 @@
 # A tu edad no tenía tu edad: relojes epigenéticos y envejecimiento
 
 ## Descripción del club
-:dna:¿Sabías que una persona de 60 años puede tener células que biológicamente funcionan como si tuviera 30? Independientemente de nuestra edad cronológica (es decir, cuántos años han pasado desde que nacemos), nuestro cuerpo tiene una edad biológica que influencia su funcionamiento y apariencia. Utilizando relojes biológicos, podemos estudiar qué factores aceleran, ralentizan o revierten nuestro envejecimiento. En este club aprenderemos qué es la epigenética, y cómo puede ser utilizada para crear relojes biológicos. Utilizando datos epigenéticos a inteligencia artificial, nos pondremos manos a la obra para crear nuestro propio reloj epigenético casero, y veremos qué tanto algunas enfermedades aceleran el envejecimiento.
+:dna:¿Sabías que una persona de 60 años puede tener células que biológicamente funcionan como si tuviera 30? Independientemente de nuestra edad cronológica (es decir, cuántos años han pasado desde que nacemos), nuestro cuerpo tiene una edad biológica que influencia su funcionamiento y apariencia. Utilizando relojes biológicos, podemos estudiar qué factores aceleran, ralentizan o revierten nuestro envejecimiento. En este club aprenderemos qué es la epigenética, y cómo puede ser utilizada para crear relojes biológicos. Utilizando datos epigenéticos, inteligencia artificial y R, nos pondremos manos a la obra para crear nuestro propio reloj epigenético casero, y veremos qué tanto algunas enfermedades aceleran el envejecimiento. 
 
-:mantelpiece_clock: ¿Estás listx para convertirte en unx relojerx molecular del siglo XXI?. En este club aprenderemos conceptos básicos de epigenética, programación en R y machine learning. Analizaremos datos públicos de metilación del ADN, y construiremos un reloj epigenético usando Elastic Net. ¿Todxs listxs? :nerd_face:
+¿Están listxs para convertirte en unxs relojerxs moleculares del siglo XXI? :nerd_face:
 
 ![Conejo de Alicia en El País de las Maravillas](https://static.wikia.nocookie.net/aliceinwonderland/images/c/c9/1951-Rabbit.png/revision/latest?cb=20100427203821&path-prefix=es)
 
