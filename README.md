@@ -37,7 +37,7 @@ Día 5 | - Relojes epigenéticos | - Práctico: Evaluación del reloj epigenéti
 
 ## Contenido del repositorio 
 - `datos/`
-- `presentaciónes/`
+- `presentaciones/`
 - `prácticas/`
 
 ## Palabras clave
