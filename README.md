@@ -11,13 +11,8 @@
 - [Erick Navarro-Delgado](https://erick-navarrodelgado.netlify.app/en/). Candidato a Doctor en Bioinformática en The University of British Columbia.
 - [Guadalupe Ayala Rodriguez](https://www.linkedin.com/in/maria-guadalupe-ayala-rodriguez-442b9b233/). Estudiante de Maestría en Biología celular y molecular en la Universidad Autonoma del Estado de Morelos.
 
-## Contenido del repositorio 
-- `datos/`
-- `presentaciónes/`
-- `prácticas/`
-
 ## Materiales 
-:technologist: Nuestro club será enteramente computacional, entonces es muy recomendable que traigan su propia laptop con R y Rstudio instalados. Trabajar con computadoras personales es preferido, pues pueden tomar notas y jugar con el código localmente.
+:technologist: ¡Nuestro club será enteramente computacional, entonces lo único que necesitas es tu computadora! Es recomendable que realicen este club su propia laptop, pues pueden tomar notas y jugar con el código localmente.
 
 ## Pre-requisitos
 
@@ -30,6 +25,20 @@
 - Capítulos 1-5,8 y 13 del curso de [The Carpentries](https://swcarpentry.github.io/r-novice-gapminder-es/index.html). Pueden encontrar instrucciones detalladas para instalar R y Rstudio [aquí](https://bookdown.org/jboscomendoza/r-principiantes4/instalacion.html).
 
 :arrow_down_small: Tener instalados los paquetes indicados en `prácticas/paquetes.R`, y descargados de forma local los datos ubicados en la carpeta `datos/`. 
+
+## Temario
+Día | Materia | Actividades
+--- | --- | ---
+Día 1 | - Envejecimiento <br> - R | - Teórico: Introducción a conceptos de envejecimiento y edad biológica <br> - Práctico: Introducción a R y Rstudio 
+Día 2 | - Epigenética <br> - Manejo de datos en R | - Teórico: Introducción a metilación del ADN y su papel biológico <br> - Práctico: Manejo de datos en R con tidyverse y visualización con ggplot2
+Día 3 | - Modelos de regularización | - Teórico: Introducción a la estadística, modelos lineales y de regularización <br> - Práctico: uso del paquete glmnet con modelos Ridge, LASSO y Elastic Net 
+Día 4 | - Relojes epigenéticos | - Teórico: Introducción a microarreglos para medir la metilación del ADN, y a relojes epigenéticos <br> - Práctico: familiarización con datos de microarreglos y creación de un modelo sencillo con Elastic Net
+Día 5 | - Relojes epigenéticos | - Práctico: Evaluación del reloj epigenético casero y cuantificación de envejecimiento acelerado en muestras de cáncer.
+
+## Contenido del repositorio 
+- `datos/`
+- `presentaciónes/`
+- `prácticas/`
 
 ## Palabras clave
 - Epigenética 
