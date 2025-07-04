@@ -12,7 +12,7 @@
 - [Guadalupe Ayala Rodriguez](https://www.linkedin.com/in/maria-guadalupe-ayala-rodriguez-442b9b233/). Estudiante de Maestría en Biología celular y molecular en la Universidad Autonoma del Estado de Morelos.
 
 ## Materiales 
-:technologist: ¡Nuestro club será enteramente computacional, entonces lo único que necesitas es tu computadora! Es recomendable que realicen este club su propia laptop, pues pueden tomar notas y jugar con el código localmente.
+:technologist: ¡Nuestro club será enteramente computacional, entonces lo único que necesitas es tu computadora! Es recomendable que realicen este club en su propia laptop, pues pueden tomar notas y jugar con el código localmente.
 
 ## Pre-requisitos
 
