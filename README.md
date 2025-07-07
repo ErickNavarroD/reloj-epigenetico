@@ -29,8 +29,8 @@
 ## Temario
 Día | Materia | Actividades
 --- | --- | ---
-Día 1 | - Envejecimiento <br> - R | - Teórico: Introducción a conceptos de envejecimiento y edad biológica <br> - Práctico: Introducción a R y Rstudio 
-Día 2 | - Epigenética <br> - Manejo de datos en R | - Teórico: Introducción a metilación del ADN y su papel biológico <br> - Práctico: Manejo de datos en R con tidyverse y visualización con ggplot2
+Día 1 | - Epigenética <br> - R | -Teórico: Introducción a metilación del ADN y su papel biológico  <br> - Práctico: Introducción a R y Rstudio 
+Día 2 | - Envejecimiento <br> - Manejo de datos en R | - Teórico: Introducción a conceptos de envejecimiento y edad biológica<br> - Práctico: Manejo de datos en R con tidyverse y visualización con ggplot2
 Día 3 | - Modelos de regularización | - Teórico: Introducción a la estadística, modelos lineales y de regularización <br> - Práctico: uso del paquete glmnet con modelos Ridge, LASSO y Elastic Net 
 Día 4 | - Relojes epigenéticos | - Teórico: Introducción a microarreglos para medir la metilación del ADN, y a relojes epigenéticos <br> - Práctico: familiarización con datos de microarreglos y creación de un reloj epigenético con Elastic Net
 Día 5 | - Relojes epigenéticos | - Práctico: Evaluación del reloj epigenético casero y cuantificación de envejecimiento acelerado en muestras de cáncer.
