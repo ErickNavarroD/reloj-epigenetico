@@ -36,9 +36,9 @@ Día 4 | - Relojes epigenéticos | - Teórico: Introducción a microarreglos par
 Día 5 | - Relojes epigenéticos | - Práctico: Evaluación del reloj epigenético casero y cuantificación de envejecimiento acelerado en muestras de cáncer.
 
 ## Contenido del repositorio 
-- `datos/`
-- `presentaciones/`
-- `prácticas/`
+- `datos/`: aquí encontrarás los datos necesarios para la práctica de relojes epigenéticos del club.
+- `presentaciones/`: aquí encontrarás las presentaciones utilizadas en el club. 
+- `prácticas/`: aquí encontrarás los scripts utilizados en el club. 
 
 ## Palabras clave
 - Epigenética 
