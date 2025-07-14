@@ -13,7 +13,7 @@ El primer paso es cargar la libraría
 #install.packages("glmnet")
 library(glmnet)
 #install.packages("caret")
-library(caret)
+#library(caret)
 ```
 
 Ahora haremos un modelo muy simple con la función `glmnet`. Este paquete ajusta modelos de regularización a los datos. Realizaremos un modelo con LASSO, otro con Ridge regression, y otro con Elastic Net.
@@ -22,7 +22,8 @@ Después de cargar los datos, generaremos una matriz de datos con predictores, y
 
 ```{r}
 set.seed(1)
-x = matrix(rnorm(100 * 20), 100, 20) # Muestrear una matriz de 20x100 a partir de una distribucion normal con media de 0 y SD de 1. 
+x = matrix(rnorm(n = 100 * 20), # Numero de observaciones 
+           100, 20) # Muestrear una matriz de 20x100 a partir de una distribucion normal con media de 0 y SD de 1. 
 head(x) #Observar la estructura de los datos
 y = rnorm(100) #Muestrear un vector de 100 elementos a partir de una distribucion normal con media de 0 y SD de 1. 
 head(y) #Observar la estructura de los datos
@@ -67,7 +68,7 @@ Ahora hagamos predicciones con base en un conjunto de datos nuevos.
 
 ```{r}
 newx = matrix(rnorm(10 * 20), 10, 20)
-predict(ridge.cv, newx , s = "lambda.1se", type = "response")  # make predictions
+predict(ridge.cv, newx , s = lambda_RIDGE, type = "response")  # make predictions
 ```
 
 ## LASSO Regression
@@ -97,7 +98,7 @@ Ahora vamos a ajustar un modelo de Elastic Net. Elastic Net es una combinación 
 
 ```{r}
 
-elastic.cv <- cv.glmnet(x,y,alpha=0.3,family="gaussian",type.measure = "mse", nfolds= 5 )
+elastic.cv <- cv.glmnet(x,y,alpha=0.5,family="gaussian",type.measure = "mse", nfolds= 5 )
 plot(elastic.cv)
 coef(elastic.cv,s=elastic.cv$lambda.1se)
 
